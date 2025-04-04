@@ -1,0 +1,7 @@
+Gene,Amostra_Normal_1,Amostra_Normal_2,Amostra_Tumor_1,Amostra_Tumor_2,Amostra_Tumor_3
+TP53,5.2,4.8,12.5,13.1,11.8
+EGFR,8.9,9.5,15.2,14.7,16.1
+BRCA1,12.1,11.7,3.8,4.2,3.5
+ALK,7.5,8.1,10.9,11.5,12.2
+PIK3CA,9.8,10.2,6.5,5.9,6.3
+MYC,3.1,2.8,18.7,19.2,20.1

@@ -1,0 +1,7 @@
+Chromossomo       Posicao  ID      Ref     Alt     Qual    Filtro  Gene    Amostra_Tumor_1       Amostra_Tumor_2       Amostra_Normal
+chr1    12345   rs123   A       T       50      PASS    TP53    0.8     0.9     0.01
+chr2    67890   rs456   C       G       65      PASS    EGFR    0.7     0.65    0.02
+chr3    111222  rs789   G       A       80      PASS    BRCA1   0.95    0.98    0.005
+chr4    333444  rs101   T       C       45      LowQual PIK3CA  0.2     0.25    0.01
+chr5    555666  rs202   A       C       70      PASS    ALK     0.85    0.88    0.015
+chr6    777888  rs303   C       T       90      PASS    MYC     0.6     0.55    0.03
